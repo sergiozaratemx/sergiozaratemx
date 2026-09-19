@@ -34,7 +34,7 @@
 
 ## Follow Me
 
-[![Gmail Badge](https://img.shields.io/badge/-tu.email@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tu.email@gmail.com)](mailto:tu.email@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sergiozaratexmx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tu.email@gmail.com)](mailto:tu.email@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-sergiozaratemx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiozaratemx/)](https://www.linkedin.com/in/sergiozaratemx/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/sergiozaratemx)](https://github.com/sergiozaratemx)
 [![Twitter Badge](https://img.shields.io/badge/-@sergiozaratemx-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=sergiozaratemx "Follow on Twitter")
