@@ -10,7 +10,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sergiozaratemx&repo=nombre-del-repo-2&theme=radical)](https://github.com/sergiozaratemx/nombre-del-repo-2)
 
-
 - 🔭 I'm currently working on cool projects about **Web Development, Data Science & Digital Innovation**
 - 🤖 Passionate about **AI, Cloud Solutions & Automation**
 - 📊 I love Stats and making cool Dashboards
